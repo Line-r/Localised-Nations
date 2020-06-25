@@ -52,7 +52,7 @@
  # Swiss tags
  GNV:0 "Geneva"
  GNV_ADJ:0 "Genevan"
- TTL:0 "Drei Bünde"
+ TTL:0 "Trias Lias"
  TTL_ADJ:0 "Three Leagues"
  # Bohemian Provinces
  PROV4723:0 "Opole"
@@ -67,9 +67,9 @@
  moravia_area_name:0 "Moravia"
  moravia_area_adj:0 "Moravian"
  # Silesian tags
- OPL:0 "Ôpole"
+ OPL:0 "Uopole"
  OPL_ADJ:0 "Opole"
- GLG:0 "Glogow"
+ GLG:0 "Gloguow"
  GLG_ADJ:0 "Glogow"
  # Lotharingia
  LOT:0 "Lotharingie"
