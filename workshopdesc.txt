@@ -7,6 +7,7 @@ Example: "Spain" becomes "España".
 [h1]Current Features:[/h1]
 [list]
 [*]A fully localised Europe, with all formables and releasables being renamed.
+[*]Ironman compatible
 [/list]
 
 [h1]Known Issues:[/h1]
@@ -24,3 +25,5 @@ Most of the translations were taken from Wikipedia and other sources.
 
 If you'd happen to know any translations for nations their names, both in Europe and outside, feel free to contribute by adding to the discussion posts.
 In case you notice any bugs or other issues, please let me know, and I'll address them.
+
+For anyone who's interested, we have a GitHub repo, which you can use to get notified whenever the mod updates: https://github.com/Line-r/Localised-Nations

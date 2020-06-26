@@ -159,7 +159,7 @@
  west_burgundy_area_name:0 "Nivernais"
  west_burgundy_area_adj:0 "Nivarnois"
  # Tags
- BLG:0 "Bologna"
+ BLG:0 "Bulaggna"
  BLG_ADJ:0 "Bolognese"
  BRG:0 "Berg"
  BRG_ADJ:0 "Berger"
@@ -268,7 +268,7 @@
  ING_ADJ:0 "Ingolstädter"
  PSS:0 "Passau"
  PSS_ADJ:0 "Passauer"
- MBZ:0 "Bregenz"
+ MBZ:0 "Breagaz"
  MBZ_ADJ:0 "Bregenzer"
  KNZ:0 "Konstanz"
  KNZ_ADJ:0 "Konstanzer"
