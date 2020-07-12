@@ -1987,7 +1987,7 @@
  become_ikko_ikki_daimyo_desc:0 "Our ruler has always held sympathies for the Ikko Ikki and their Buddhist faith. Although many people in Japan follow both the Buddhist and Shinto faith simultaneously, perhaps it is time we abandoned the old ways and adopted Shin Buddhism."
  become_confucian_daimyo_title:0 "Adopt Confucian Administration"
  become_confucian_daimyo_desc:0 "Confucianism has uniquely influenced our Daimyo to an extent where religious institutions are beginning to seem a little redundant. Perhaps if we fully adopt the teachings of Confucius, we will create a more peaceful and harmonious realm."
- DAL:0 "Dalmàssia"
+ DAL:0 "Dalmacija"
  DAL_ADJ:0 "Dalmatian"
  dalmatian:0 "Dalmatian"
  dalmatian_nation_title:0 "Reunite the Kingdom of Dalmatia"
