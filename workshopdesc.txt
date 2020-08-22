@@ -1,12 +1,13 @@
 //Ignore this file, it is only intended to have an easy to maintain Workshop description.
 
 [h1]What does this mod do?[/h1]
-This mod changes every nation's name to that in their culture's language, during the 1444 start date.
+This mod changes every nation's name to that in their original culture's language, during the 1444 start date or earlier.
 Example: "Spain" becomes "España".
 
 [h1]Current Features:[/h1]
 [list]
 [*]A fully localised Europe, with all formables and releasables being renamed.
+[*]A fully localised Asia, with all formables and releasables being renamed.
 [*]Ironman compatible
 [/list]
 
@@ -14,16 +15,16 @@ Example: "Spain" becomes "España".
 [list]
 [*]Nations who's name are not originally in Latin have been romanized.
 [*]A few nations still haven't been translated correctly.
-[*]Not all names are correct, especially the Old Slavic speaking nations.
+[*]Not all names are correct, mistakes may be addressed in the sticky below.
 [*]EU4 doesn't accept alot of UTF-8 characters, not even something as simple as the Nordic alphabet, so a lot of nations their names have been dumbed down.
 [/list]
 
 
 [h1]I want to contribute[/h1]
-The research into old and forgotten languages for this mod was quite hard, and not everything is accurate.
+The research into old and forgotten languages for this mod is quite hard, and not everything is accurate.
 Most of the translations were taken from Wikipedia and other sources.
 
-If you'd happen to know any translations for nations their names, both in Europe and outside, feel free to contribute by adding to the discussion posts.
-In case you notice any bugs or other issues, please let me know, and I'll address them.
+If you'd happen to know any translations for nations their names, feel free to contribute by adding to the discussion posts.
+In case you notice any bugs or other issues, please let us know, and we'll address them.
 
 For anyone who's interested, we have a GitHub repo, which you can use to get notified whenever the mod updates: https://github.com/Line-r/Localised-Nations
