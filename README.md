@@ -1,5 +1,5 @@
 # Localised Nations
-![logo](https://steamuserimages-a.akamaihd.net/ugc/1481074625449089283/70D8C527DB5F015E73B10AD92C78144D12EF5452/ "Localised Nations")
+![logo](https://i.imgur.com/ahnP1ZH.png)
 
 
 ## What does this mod do?
@@ -11,6 +11,9 @@ Example: "Spain" becomes "España".
 
 * A fully localised Europe, with all formables and releasables being renamed.
 * A fully localised Asia, with all formables and releasables being renamed.
+* A fully localised Africa.
+* A fully localised Oceania.
+* A fully localised North and South America.
 * Ironman compatible
 
 ## Known Issues:
