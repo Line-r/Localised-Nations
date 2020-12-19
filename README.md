@@ -1,5 +1,5 @@
 # Localised Nations
-![logo](https://i.imgur.com/ahnP1ZH.png)
+![logo](https://i.imgur.com/vziVb41.png)
 
 
 ## What does this mod do?
