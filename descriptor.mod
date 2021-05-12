@@ -6,6 +6,6 @@ tags={
 	"Translation"
 }
 picture="thumbnail.png"
-supported_version="1.30.*"
+supported_version="1.31.*"
 path="/home/brent/.local/share/Paradox Interactive/Europa Universalis IV/mod/Localised_Nations"
 remote_file_id="2138662155"
